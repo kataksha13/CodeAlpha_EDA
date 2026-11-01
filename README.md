@@ -3,7 +3,7 @@
 **CodeAlpha Data Analytics Internship, Task 2: Exploratory Data Analysis**
 
 Exploratory analysis of the book dataset scraped in Task 1
-([CodeAlpha_WebScraping](https://github.com/YOUR-USERNAME/CodeAlpha_WebScraping)).
+([CodeAlpha_WebScraping](https://github.com/kataksha13/CodeAlpha_WebScraping)).
 The dataset has 1,000 books from Books to Scrape with title, price, star rating and stock status.
 
 ## Questions asked
